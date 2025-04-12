@@ -1,0 +1,9 @@
+.AfterPayment {}
+
+.shadow{
+    box-shadow: 2px 5px 5px 10px gray;
+}
+
+.shadow2{
+    box-shadow: 2px 5px 20px 7px rgba(1, 43, 1, 0.702);
+}

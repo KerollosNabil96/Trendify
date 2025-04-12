@@ -1,0 +1,10 @@
+.SignUp {
+}
+form {
+     border: 1px solid black;
+     box-shadow: 1px 1px 15px 5px rgba(0, 0, 0, 0.635);
+     border-radius: 10px;
+     margin-top: 15px;
+     padding: 20px;
+}
+

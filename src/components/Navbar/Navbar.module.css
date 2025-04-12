@@ -1,0 +1,19 @@
+.Navbar {}
+
+.logo {
+    color: rgb(60, 5, 60); 
+  }
+
+  .num{
+    position: absolute !important;
+    top: -5px;
+    left: 8px;
+    font-size: 14px !important;
+    padding: 2px; }
+
+  .crt { 
+    position: relative;
+  }
+
+
+  
